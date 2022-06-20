@@ -1,6 +1,6 @@
 # Conexion-Circular
-Proyecto para creación de la página web de Conexión Circular.
-Esta es una copia del repositorio original. 
+Proyecto para creación de la página web de Conexión Circular.</br>
+Esta es una copia del repositorio original.</br>
 https://github.com/RobertoLujan93/Conexion-Circular
 
 ## Link
