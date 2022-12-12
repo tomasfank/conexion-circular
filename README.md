@@ -1,4 +1,4 @@
-# Conexion-Circular
+# Conexion Circular
 Diseño y maquetado de un sitio web para Conexión Circular.</br>
 
 ## Link
