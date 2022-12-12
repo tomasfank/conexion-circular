@@ -14,7 +14,7 @@ Tiene como misión difundir estos temas a todos con el objetivo de lograr una tr
 </br>
 
 ### La página web se encuentra en proceso de desarrollo por parte de 
-[Tomás Fank](https://www.linkedin.com/in/tomasfank/).
+[Tomás Fank](https://www.linkedin.com/in/tomasfank/).</br>
 [Roberto Ariel Luján Gutiérrez](https://github.com/RobertoLujan93) 
 
 ## Herramientas utilizadas
